@@ -1,5 +1,6 @@
-# power2 result
+# asmPower2
 
+'''
 1> ENT  0
 2> IMM  -1759149735
 3> PSH
