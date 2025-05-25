@@ -35,5 +35,8 @@
 
 ## 習題五
 
+[hw5](https://github.com/yunuun/_sp/blob/main/hw5/power2.md)
+
+md檔的格式有參考同學的
 
 
