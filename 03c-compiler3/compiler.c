@@ -118,9 +118,7 @@ void DOWHILE(){
   int dowhileEnd = nextLabel();
   emit("(L%d)\n", dowhileBegin);
   skip("do");
-  skip("{");
   STMT();
-  skip("}");
   skip("while");
   skip("(");
   int e = E();
